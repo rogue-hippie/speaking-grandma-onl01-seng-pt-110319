@@ -1,5 +1,5 @@
 def speak_to_grandma(phrase)
-  if phrase != phrase.capitalize
-    return "HUH?1 SPEAK UP, SONNY!"
+  if phrase == "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
   end
 end
